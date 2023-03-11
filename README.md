@@ -1,6 +1,5 @@
 # www
-www.spacetreck.com
-
++ [spacetreck.com](http://spacetreck.com)
 
 + spacetreck
 + spacengy
