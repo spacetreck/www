@@ -76,6 +76,23 @@ MiFID II is a legislative framework instituted by the European Union (EU) to reg
 
 ### OS
 
+[UNICOS – ArchiveOS](https://archiveos.org/unicos/)
+UNICOS – a standard operating system for VSMP (Cray Vector Symmetric multi-processor) computers developed by Cray Research. UNICOS is the successor of the Cray Operating System (COS). It was derived from the UNIX System V, and it is the first 64 bit implementation of UNIX and a UNIX similar file system. The UNICOS system is also the first high performance UNIX based operating system which supports SMP. 
+
+
+## The Consultative Committee for Space Data Systems (CCSDS)
+[CCSDS.org - The Consultative Committee for Space Data Systems (CCSDS)](https://public.ccsds.org/default.aspx)
+
+was formed in 1982 by the major space agencies of the world to provide a forum for discussion of common problems in the development and operation of space data systems. It is currently composed of 11 member agencies, 32 observer agencies, and over 119 industrial associates.
+
+
+> ##### The Consultative Committee for Space Data Systems (CCSDS) is a [multi-national forum](https://public.ccsds.org/participation/member_agencies.aspx) for the development of communications & data systems standards for spaceflight.
+> 
+> ##### Leading space communications experts from 28 nations collaborate in developing the most well-engineered space communications & data handling [standards](https://public.ccsds.org/Publications) in the world.
+> 
+> ##### The goal to enhance governmental & commercial interoperability & cross-support, while also reducing risk, development time & project costs.
+> 
+> ##### More than [1000 space missions](https://public.ccsds.org/implementations/missions.aspx) have chosen to fly with CCSDS-developed [standards](https://public.ccsds.org/Publications).
 
 
 
