@@ -96,6 +96,121 @@ was formed in 1982 by the major space agencies of the world to provide a forum f
 
 
 
+## Ecosystems
+
+[GAIA-X - Home](https://www.data-infrastructure.eu/GAIAX/Navigation/EN/Home/home.html)
+
+> ### Purpose of Gaia-X
+> 
+> **With Gaia-X, representatives from business, science and politics on an international level create a proposal for the next generation of data infrastructure: an open, transparent and secure digital ecosystem, where data and services can be made available, collated and shared in an environment of trust.**
+
+
+
+
+## esabic
+
+[Partners - ESA Business Incubation Centre Poland](https://esabic.pl/partners/)
+
+EUROPEAN SPACE AGENCY (ESA)
+
+ESA Business Incubation Centres (ESA BICs) are the largest network of incubators supporting space related start-ups in Europe. The objective is to support entrepreneurs with a space-based business idea and help them developing their product while getting their company off the ground. In the process, they create and grow clusters of space-related start-ups across Europe.
+
+For details on ESA visit their official website and also these dedicated web sites for how ESA support Open Innovation, makes patents available and other technology available for transfer to you as an exisiting company or startup.
+INDUSTRIAL DEVELOPMENT AGENCY JSC (Agencja Rozwoju Przemysłu S.A.)
+
+Industrial Development Agency JSC (ARP) is responsible for implementation and management of ESA BIC Poland. 
+
+ARP tasks in ESA BIC Poland project include: promotion, scouting, start-up selection, financing, management, reporting and creating an ecosystem around incubated start-ups.   
+
+ARP is a state-owned, joint stock company supervised by the Prime Minister with 100% Treasury shareholding. ARP combines its public mission with business activity.
+
+Our mission: We switch development on. We change the industry. 
+
+ARP conducts activities for the development of human resources in the Polish space technology sector , in particular through the organization of internships (Polish Space Fellowship Program), trainings, and workshops as well as activities promoting the Polish space sector in the country and abroad. It also provides financial and non-financial support to entities in the space sector. ARP prepared and implemented its own development program for the space technology sector called Space technology sector support program. 
+Partners network
+
+ESA BIC Poland is an incubator whose operation is based on the cooperation of many institutions. Providing support tailored to the needs of a startup requires the involvement of many partners with very different competences and resources. Financial institutions, experienced incubators, research institutes, technology or consulting companies together provide the support that is necessary for the rapid development of a product or service as part of the incubation process. This is how the roles of partners are defined:
+
+    Incubation Partner – runs the incubation process, has extensive experience in incubation, acceleration and cooperation with startups;
+    Financial Partner – participates in non-refundable financing for start-ups (incentive);
+
+    Technical Partner – provide technical support for start-up, has competence, knowledge and R&D infrastructure in a specific technological area;
+    Office support partner – provides access to office space for incubatees;
+
+    Business and legal support partner provides business or legal support for startups, has competence and knowledge in the field of business development or provides legal services.
+    
+    
+    
+## Job
+
+[Staże - Z.P. Sektora Kosmicznego](https://space.biz.pl/staze/)
+
+
+[Staże - Z.P. Sektora Kosmicznego](https://space.biz.pl/staze/)
+
+
+## Companies
+
+Lista laureatów 7 edycji konkursu stażowego
+
+1. Absiskey Polska sp. z o. o. – Maciej Blacha.
+
+2. Astronika sp. z o.o. – Kacper Aftewicz.
+
+3. BitbyBit sp. z o.o. – Piotr Pasławski.
+
+4. Creotech Instruments S.A. – Michał Błażejczyk.
+
+5. ICEYE sp. z o.o – Mateusz Kiersnowski.
+
+6. Inphotech sp. z o.o – Michał Karol Majewski.
+
+7. KP Labs sp. z o.o. – Aleksandra Natalia Wilczyńska.
+
+8. Sieć Badawcza Łukasiewicz-Instytut Lotnictwa –Piotr Antczak.
+
+9. N7 Space Sp. z o.o. – Jacek Prokopczuk.
+
+10. OPEGIEKA sp. z o.o – Julia Karmowska.
+
+11. PIAP Space Sp. z o.o. – Agnieszka Elwertowska.
+
+12. Progresja Space Sp. z o.o – Edyta Magdalena Gierada.
+
+13. Scanway sp. z o.o. –  Justyna Krystecka.
+
+14. Sener Polska Sp. z o.o. – Krzysztof Zając.
+
+15. Sybilla Technologies Sp. z o.o – Anna Krotewicz.
+
+16. SYDERAL Polska Sp. z o.o – Dominika Lech.
+
+17. WiRan Sp. z o.o. – Szymon Mikołaj Słonina.
+
+
+> ##### Lista główna (alfabetycznie):
+> 
+> 1\. Absiskey (b. Kapitech)  
+> 2\. Astronika  
+> 3\. BitbyBit  
+> 4\. Blue Dot Solutions  
+> 5\. Creotech  
+> 6\. InphoTech  
+> 7\. ITTI  
+> 8\. KP Labs  
+> 9\. Łukasiewicz-ILOT  
+> 10\. N7Space  
+> 11\. OPEGIEKA  
+> 12\. PIAP Space  
+> 13\. Progresja Space  
+> 14\. SENER  
+> 15\. Scanway  
+> 16\. Sybilla Technologies  
+> 17\. Syderal  
+> 18\. ŚCNTPL  
+> 19\. Wiran.
+> 
+
 
 ---
 + [edit](https://github.com/spacetreck/www/edit/main/README.md)
