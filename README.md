@@ -107,9 +107,11 @@ was formed in 1982 by the major space agencies of the world to provide a forum f
 
 
 
-## esabic
+## esabic poland
 
-[Partners - ESA Business Incubation Centre Poland](https://esabic.pl/partners/)
++ [ESA BIC rozpoczyna działalność w Polsce - Z.P. Sektora Kosmicznego](https://space.biz.pl/esa-bic-rozpoczyna-dzialalnosc-w-polsce/)
+
++ [Partners - ESA Business Incubation Centre Poland](https://esabic.pl/partners/)
 
 EUROPEAN SPACE AGENCY (ESA)
 
