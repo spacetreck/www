@@ -13,6 +13,7 @@
 + [energy beam](https://github.com/energy-beam)
 
 
+
 ## Agencje rządowe
 
 + [Grupa Polskiego Funduszu Rozwoju - Inwestycje dla Polski](https://pfr.pl/)
@@ -72,7 +73,20 @@ MiFID II is a legislative framework instituted by the European Union (EU) to reg
 
 
 
+
+
 ## Software
+
+### Opensource
+
++ [Open Source Project Hosting - Open Infrastructure Foundation (OpenInfra Foundation)](https://openinfra.dev/projects/hosting/)
+
+Building Successful Open Source Projects
+ 
+The OpenInfra Foundation is a neutral, collaborative home for open source infrastructure projects, providing a clear path to success and sustainability. This path to success is driven by our [sustainability model (3 Forces)](https://openinfra.dev/projects/hosting/#our-model), our [collaboration principles (4 Opens)](https://openinfra.dev/projects/hosting/#four-opens), and [our network](https://openinfra.dev/projects/hosting/#our-network) of developers, companies and operators around open infrastructure.
+
+
+
 
 ### OS
 
