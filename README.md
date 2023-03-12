@@ -143,11 +143,10 @@ ESA BIC Poland is an incubator whose operation is based on the cooperation of ma
     
 ## Job
 
-[Staże - Z.P. Sektora Kosmicznego](https://space.biz.pl/staze/)
-
 
 [Staże - Z.P. Sektora Kosmicznego](https://space.biz.pl/staze/)
 
+[Oferty-stazy_lista-glowna.pdf](Oferty-stazy_lista-glowna.pdf)
 
 ## Companies
 
