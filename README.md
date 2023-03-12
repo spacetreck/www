@@ -72,6 +72,12 @@ MiFID II is a legislative framework instituted by the European Union (EU) to reg
 
 
 
+## Software
+
+### OS
+
+
+
 
 
 ---
