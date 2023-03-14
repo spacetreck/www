@@ -11,7 +11,9 @@
 
 + [beamforming.org](http://beamforming.org/)
 + [energy beam](https://github.com/energy-beam)
-+ spacecast - podcast
++ [podcast spacecast.pl](https://spacecast.pl)
++ [rectenna.net](https://rectenna.net)
+
 
 
 ## Agencje rządowe
