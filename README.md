@@ -41,6 +41,13 @@ Podkarpackie Centrum Innowacji
 ul. Lenartowicza 6, Rzeszów
 
 
+# Podcast
+
+
+## Space Strategy
++ [Space Strategy • A podcast on Spotify for Podcasters](https://podcasters.spotify.com/pod/show/afpcspacepod)
+Interested in catalyzing policy to shape the next strategic frontier? Join host Peter Garretson as he explores insights from space thought leaders across the private sector, military, government, and academia to help define a strategic vision for U.S. space policy.
+
 
 # ESA
 
