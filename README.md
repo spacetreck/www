@@ -48,6 +48,10 @@ ul. Lenartowicza 6, Rzeszów
 + [Space Strategy • A podcast on Spotify for Podcasters](https://podcasters.spotify.com/pod/show/afpcspacepod)
 Interested in catalyzing policy to shape the next strategic frontier? Join host Peter Garretson as he explores insights from space thought leaders across the private sector, military, government, and academia to help define a strategic vision for U.S. space policy.
 
+## Organizacje, Stowarzyeszenia
+
++ [Stowarzyszenie Polskich Profesjonalistów Sektora Kosmicznego - Polish Space Professionals Association - Zarząd](https://www.pspa.pl/index.php/pl/stowarzyszenie/zarzad)
+
 
 # ESA
 
