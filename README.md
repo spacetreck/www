@@ -37,6 +37,7 @@
 ## Wydarzenia
 
 + [Podkarpacka Gospodarka 2023](https://event.pcinn.org/podkarpackagospodarka)
++ [Keysight World - Keysight](https://www.keysight.com/us/en/events/keysight-world.html?cmpid=OSM-2106051)
 
 
 
