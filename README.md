@@ -81,13 +81,13 @@ By the European Commission and the European Blockchain Partnership
 ## What Is MiFID II?
 
 MiFID II is a legislative framework instituted by the European Union (EU) to regulate financial markets in the bloc and improve protections for investors. Its aim is to standardize practices across the EU and restore confidence in the industry, especially after the [2008 financial crisis](https://www.investopedia.com/articles/economics/09/financial-crisis-review.asp).
-> 
-> ### Key Takeaways
-> 
-> - MiFID II, a European Union packet of financial industry reform legislation, rolled out on Jan. 3, 2018.1
-> - MiFID II covers virtually every asset and profession within the EU financial services industry.
-> - MiFID II regulates off-exchange and OTC trading, essentially pushing it onto official exchanges.
-> - Increasing transparency of costs and improving record-keeping of transactions are among MiFID II's key regulations.
+
+### Key Takeaways
+
+- MiFID II, a European Union packet of financial industry reform legislation, rolled out on Jan. 3, 2018.1
+- MiFID II covers virtually every asset and profession within the EU financial services industry.
+- MiFID II regulates off-exchange and OTC trading, essentially pushing it onto official exchanges.
+- Increasing transparency of costs and improving record-keeping of transactions are among MiFID II's key regulations.
 
 
 
@@ -105,6 +105,59 @@ Building Successful Open Source Projects
 The OpenInfra Foundation is a neutral, collaborative home for open source infrastructure projects, providing a clear path to success and sustainability. This path to success is driven by our [sustainability model (3 Forces)](https://openinfra.dev/projects/hosting/#our-model), our [collaboration principles (4 Opens)](https://openinfra.dev/projects/hosting/#four-opens), and [our network](https://openinfra.dev/projects/hosting/#our-network) of developers, companies and operators around open infrastructure.
 
 
+### [SNAP – STEP](http://step.esa.int/main/toolboxes/snap/)
+[SNAP - ESA's SentiNel Application Platform](https://github.com/senbox-org/)
+The SNAP architecture is ideal for Earth Observation processing and analysis due to the following technological innovations: Extensibility, Portability, Modular Rich Client Platform, Generic EO Data Abstraction, Tiled Memory Management, and a Graph Processing Framework.
+Feature Highlights
+
+    Common architecture for all Toolboxes
+    Very fast image display and navigation even of giga-pixel images
+    Graph Processing Framework (GPF): for creating user-defined processing chains
+    Advanced layer management allows adding and manipulation of new overlays such as images of other bands, images from WMS servers or ESRI shapefiles
+    Rich region-of-interest definitions for statistics and various plots
+    Easy bitmask definition and overlay
+    Flexible band arithmetic using arbitrary mathematical expressions
+    Accurate reprojection and ortho-rectification to common map projections,
+    Geo-coding and rectification using ground control points
+    Automatic SRTM DEM download and tile selection
+    Product library for scanning and cataloguing large archives efficiently
+    Multithreading and Multi-core processor support
+    Integrated WorldWind visualisation
+
+SNAP is using the following technologies
+ 
+ - [NetBeans platform](https://netbeans.org/features/platform/) – desktop application framework
+ - [Install4J](http://www.ej-technologies.com/products/install4j/overview.html) – multi-platform installation builder
+ - [GeoTools](http://www.geotools.org/) – geospatial tools library
+ - [GDAL](http://gdal.org/) – reading/writing raster and vector geospatial data formats
+ - [Jira](https://www.atlassian.com/software/jira) – issue tracker
+ - [Git](https://git-scm.com/) – version control system, hosted by [GitHub](https://github.com/)
+
+
+
+### [SNAPISTA](https://snap-contrib.github.io/snapista/index.html)
+
+[SNAPISTA](https://snap-contrib.github.io/snapista/index.html)
+
+The ESA Sentinel Applications Platform, or SNAP for short ([https://step.esa.int/main/toolboxes/snap/](https://step.esa.int/main/toolboxes/snap/)), is a free and open toolbox for processing data products from numerous satellite missions such as the EU’s Copernicus Sentinel-1, Sentinel-2 and Sentinel-3, as well as ESA’s SMOS mission, and ‘Third Party Missions’. Third Party Missions describe missions for which ESA uses its multimission ground systems to acquire, process, distribute and archive data from satellites owned by other organisations than ESA.
+
+SNAP is distributed together with a Python language interface called snappy, however this interface is lacking in terms of performance and ease of use (far from a python language style).
+
+The community has replied to this by creating numerous wrappers around the SNAP execution engine (GPT) command.
+
+This documentation refers to yet another SNAP GPT Python wrapper called _snapista_. The goal of _snapista_ is to:
+
+- ease the programmatic generation of SNAP GPT graphs in a Pythonic way
+- provide access to all operators of all existing toolboxes
+- ease the processing of these graphs with methods wrapping the system call to the SNAP GPT command
+
+A few documents and links of interest are:
+
+- The [installation guide](https://snap-contrib.github.io/snapista/installation/).
+- A [getting started](https://snap-contrib.github.io/snapista/gettingstarted/) section with an introduction to snapista including some examples .
+- An [interactive notebook developed for Binder](https://mybinder.org/v2/gh/snap-contrib/snapista/HEAD?urlpath=lab%2Ftree%2Fdemo.ipynb) with a few code snippets
+- The [snapista software repository](https://github.com/snap-contrib/snapista)
+
 
 
 ### OS
@@ -119,13 +172,13 @@ UNICOS – a standard operating system for VSMP (Cray Vector Symmetric multi-pro
 was formed in 1982 by the major space agencies of the world to provide a forum for discussion of common problems in the development and operation of space data systems. It is currently composed of 11 member agencies, 32 observer agencies, and over 119 industrial associates.
 
 
-> ##### The Consultative Committee for Space Data Systems (CCSDS) is a [multi-national forum](https://public.ccsds.org/participation/member_agencies.aspx) for the development of communications & data systems standards for spaceflight.
-> 
-> ##### Leading space communications experts from 28 nations collaborate in developing the most well-engineered space communications & data handling [standards](https://public.ccsds.org/Publications) in the world.
-> 
-> ##### The goal to enhance governmental & commercial interoperability & cross-support, while also reducing risk, development time & project costs.
-> 
-> ##### More than [1000 space missions](https://public.ccsds.org/implementations/missions.aspx) have chosen to fly with CCSDS-developed [standards](https://public.ccsds.org/Publications).
+##### The Consultative Committee for Space Data Systems (CCSDS) is a [multi-national forum](https://public.ccsds.org/participation/member_agencies.aspx) for the development of communications & data systems standards for spaceflight.
+
+##### Leading space communications experts from 28 nations collaborate in developing the most well-engineered space communications & data handling [standards](https://public.ccsds.org/Publications) in the world.
+
+##### The goal to enhance governmental & commercial interoperability & cross-support, while also reducing risk, development time & project costs.
+
+##### More than [1000 space missions](https://public.ccsds.org/implementations/missions.aspx) have chosen to fly with CCSDS-developed [standards](https://public.ccsds.org/Publications).
 
 
 
@@ -133,9 +186,9 @@ was formed in 1982 by the major space agencies of the world to provide a forum f
 
 [GAIA-X - Home](https://www.data-infrastructure.eu/GAIAX/Navigation/EN/Home/home.html)
 
-> ### Purpose of Gaia-X
-> 
-> **With Gaia-X, representatives from business, science and politics on an international level create a proposal for the next generation of data infrastructure: an open, transparent and secure digital ecosystem, where data and services can be made available, collated and shared in an environment of trust.**
+### Purpose of Gaia-X
+
+**With Gaia-X, representatives from business, science and politics on an international level create a proposal for the next generation of data infrastructure: an open, transparent and secure digital ecosystem, where data and services can be made available, collated and shared in an environment of trust.**
 
 
 
@@ -222,28 +275,28 @@ Lista laureatów 7 edycji konkursu stażowego
 17. WiRan Sp. z o.o. – Szymon Mikołaj Słonina.
 
 
-> ##### Lista główna (alfabetycznie):
-> 
-> 1\. Absiskey (b. Kapitech)  
-> 2\. Astronika  
-> 3\. BitbyBit  
-> 4\. Blue Dot Solutions  
-> 5\. Creotech  
-> 6\. InphoTech  
-> 7\. ITTI  
-> 8\. KP Labs  
-> 9\. Łukasiewicz-ILOT  
-> 10\. N7Space  
-> 11\. OPEGIEKA  
-> 12\. PIAP Space  
-> 13\. Progresja Space  
-> 14\. SENER  
-> 15\. Scanway  
-> 16\. Sybilla Technologies  
-> 17\. Syderal  
-> 18\. ŚCNTPL  
-> 19\. Wiran.
-> 
+##### Lista główna (alfabetycznie):
+
+1\. Absiskey (b. Kapitech)  
+2\. Astronika  
+3\. BitbyBit  
+4\. Blue Dot Solutions  
+5\. Creotech  
+6\. InphoTech  
+7\. ITTI  
+8\. KP Labs  
+9\. Łukasiewicz-ILOT  
+10\. N7Space  
+11\. OPEGIEKA  
+12\. PIAP Space  
+13\. Progresja Space  
+14\. SENER  
+15\. Scanway  
+16\. Sybilla Technologies  
+17\. Syderal  
+18\. ŚCNTPL  
+19\. Wiran.
+
 
 
 ---
