@@ -33,7 +33,7 @@
 
 
 + [Rzeszów – HackVision](https://hackvision.pl/rzeszow/)
-
++ [AEROPOLIS Podkarpacki Park Naukowo-Technologiczny - Strona główna](https://aeropolis.com.pl/pl/)
 
 
 ## Wydarzenia
