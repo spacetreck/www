@@ -15,7 +15,8 @@
 + [rectenna.net](https://rectenna.net)
 
 
-## Partenrzy
+
+## Partnerzy
 
 + [biznes - Sieć Badawcza Łukasiewicz](https://lukasiewicz.gov.pl/biznes/)
 + [Instytut relokuje część biur do Aeroparku - Sieć Badawcza Łukasiewicz - Instytut Lotnictwa](https://ilot.lukasiewicz.gov.pl/instytut-relokuje-czesc-biur-do-aeroparku/)
@@ -492,6 +493,10 @@ Lista laureatów 7 edycji konkursu stażowego
 
 
 ## Global Organisations
+
+
+### [DLR Portal](https://www.dlr.de/DE/Home/home_node.html)
+
 
 ### [CEOS - Committee on Earth Observation Satellites](https://ceos.org/)
 
