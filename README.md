@@ -170,6 +170,16 @@ A few documents and links of interest are:
 - The [snapista software repository](https://github.com/snap-contrib/snapista)
 
 
+## Staellites
+
+[ESA - Pacis 3](https://www.esa.int/Applications/Telecommunications_Integrated_Applications/Pacis_3)
+
+> The Pacis 3 project works towards providing more affordable, flexible and secure communications services for governmental users in Europe.
+> 
+> It is an ESA Partnership Project with Spanish satellite operator Hisdesat, supported by Spain’s Centre for the Development of Industrial Technology (CDTI).
+
+
+
 
 
 
@@ -210,10 +220,19 @@ was formed in 1982 by the major space agencies of the world to provide a forum f
 ## esabic poland
 
 + [ESA BIC rozpoczyna działalność w Polsce - Z.P. Sektora Kosmicznego](https://space.biz.pl/esa-bic-rozpoczyna-dzialalnosc-w-polsce/)
-
 + [Partners - ESA Business Incubation Centre Poland](https://esabic.pl/partners/)
 
-EUROPEAN SPACE AGENCY (ESA)
+## granty 
+
+[Programme - ESA Business Incubation Centre Poland](https://esabic.pl/programme/)
+
+> [What is the goal of the ESA BICs?](https://esabic.pl/programme/)
+> 
+> The ESA Business Incubation Centres (ESA BICs) are the largest network of space incubators in the World. Their objective is to support entrepreneurs with a space-connected business idea and growing clusters of space-related startups across Europe. All ESA BICs are managed by local champions who connect their ESA BIC to the local industry, universities, research organisations, government, and investor communities. This makes the ESA BICs very well embedded in the local communities as well as the place of choice for all space-related innovation and business. Tapping into this excellence provides rich opportunities to get products and services off the ground and market ready. This European-wide network fosters annually the creation of more than 200 startups across Europe. To date, ESA BICs have helped starting about 1200 companies. The ESA BIC Alumni contribute to an ever-larger part of the space economy, attracting funding that in total exceeds what many European countries invest in Space. ESA BICs create the future of space!
+
+
+
+## EUROPEAN SPACE AGENCY (ESA)
 
 ESA Business Incubation Centres (ESA BICs) are the largest network of incubators supporting space related start-ups in Europe. The objective is to support entrepreneurs with a space-based business idea and help them developing their product while getting their company off the ground. In the process, they create and grow clusters of space-related start-ups across Europe.
 
@@ -243,6 +262,39 @@ ESA BIC Poland is an incubator whose operation is based on the cooperation of ma
     
     
     
+### [European Blockchain Strategy — Brochure - Shaping Europe’s digital future](https://digital-strategy.ec.europa.eu/en/library/european-blockchain-strategy-brochure)
+Blockchain is one of the key emerging technologies for Europe, on a par with AI, IoT, Quantum Computing and 5G. Known as the technology of trust, it enables large groups of people and organisations that may not know or trust each other to agree on and permanently record information without the need for a third-party authority. 
+
+[Blockchain Strategy - Shaping Europe’s digital future](https://digital-strategy.ec.europa.eu/en/policies/blockchain-strategy)
+
+> The EU wants to be a leader in blockchain technology, becoming an innovator in blockchain and a home to significant platforms, applications and companies.
+
+[European Blockchain Partnership | Shaping Europe’s digital future](https://digital-strategy.ec.europa.eu/en/policies/blockchain-partnership)
+
+> # European Blockchain Partnership
+> 
+> The European Blockchain Partnership (EBP) is an initiative to develop an EU strategy on blockchain and build a blockchain infrastructure for public services.
+> 
+> 
+> ## A technological and regulatory sandbox
+> 
+> The European Blockchain Partnership’s main focus has been building the European Blockchain Services Infrastructure (EBSI).
+> 
+> The European Blockchain Partnership (EBP) helps avoid fragmentation of the blockchain landscape by fostering close collaboration between EU countries. The Partnership supports interoperability and the broad deployment of blockchain-based services. It offers a regulatory-compliant environment in full compliance with EU laws and with clear governance structures and models to help blockchain grow and flourish all across Europe.
+> 
+> By using blockchain themselves, European policy makers gain first-hand knowledge of how the technology works, where it can best be applied, and what its potential and risks are.  The EBP serves as both a technological and regulatory sandbox, hopefully leading to better, more informed regulation on the technological and use case front.
+> 
+
+[Home - European Blockchain Association](https://europeanblockchainassociation.org/)
+
+> # Empowering The European Blockchain Ecosystem
+> 
+> We combine, synchronize and leverage blockchain-related activities of European corporations, startups, venture capitalists, and scientific institutes. We serve as a superior, neutral body to aggregate and coordinate blockchain activities throughout Europe and to provide Non-European parties access into the European blockchain ecosystem.
+
+
+
+
+
 ## Job
 
 
