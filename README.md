@@ -39,6 +39,8 @@
 
 ## Wydarzenia
 
+
++ [Wydarzenia - POLSA - Polska Agencja Kosmiczna](https://polsa.gov.pl/wydarzenia/)
 + [Podkarpacka Gospodarka 2023](https://event.pcinn.org/podkarpackagospodarka)
 + [Keysight World - Keysight](https://www.keysight.com/us/en/events/keysight-world.html?cmpid=OSM-2106051)
 
@@ -143,12 +145,23 @@ MiFID II is a legislative framework instituted by the European Union (EU) to reg
 
 ## [Space-Track.Org](https://www.space-track.org/auth/login?s=08)
 
->   
-> Space-Track.org promotes space flight safety, protection of the space environment and the peaceful use of space worldwide by sharing space situational awareness services and information with U.S. and international satellite owners/operators, academia and other entities.
+Space-Track.org promotes space flight safety, protection of the space environment and the peaceful use of space worldwide by sharing space situational awareness services and information with U.S. and international satellite owners/operators, academia and other entities.
+
 
 
 
 ## Gateway, Cloud Provider
+
+
+[EOX - View the world through our eyes](https://eox.at/)
+
+How EO expertise powers agri-monitoring decisions (Part 3)
+This blog post is the third part of a multi-post series. Introduction The first and second parts of this blog post series introduced the Area Monitoring System (AMS) and the EO-WIDGET project. Furthermore, it covered user interface components, APIs (Application Programming Interface) and backend ser ...
+
++ [Euro Data Cube - github](https://github.com/eurodatacube)
++ [Open-EO/openeo-web-editor: An interactive and easy to use web-based editor for the OpenEO API.](https://github.com/Open-EO/openeo-web-editor)
++ [editor.openeo.org](https://editor.openeo.org/)
+
 
 
 [Earth Observation Missions - eoPortal](https://www.eoportal.org/)
