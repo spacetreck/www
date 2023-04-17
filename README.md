@@ -108,6 +108,7 @@ MiFID II is a legislative framework instituted by the European Union (EU) to reg
 + [EUSPA Space Academy - an online training programme](https://www.euspa.europa.eu/spaceacademy/)
 
 
++ [esa-star Publication](https://esastar-publication-ext.sso.esa.int/)
 
 
 ## Satellites
@@ -308,6 +309,29 @@ was formed in 1982 by the major space agencies of the world to provide a forum f
 ##### The goal to enhance governmental & commercial interoperability & cross-support, while also reducing risk, development time & project costs.
 
 ##### More than [1000 space missions](https://public.ccsds.org/implementations/missions.aspx) have chosen to fly with CCSDS-developed [standards](https://public.ccsds.org/Publications).
+
+
+
+## Solar Panels
+
+[ESA - FAQ: Frequently Asked Questions on Space-Based Solar Power](https://www.esa.int/Enabling_Support/Space_Engineering_Technology/SOLARIS/FAQ_Frequently_Asked_Questions_on_Space-Based_Solar_Power)
+
+
+[ESA - ESA-supported technology developments](https://www.esa.int/Enabling_Support/Space_Engineering_Technology/SOLARIS/ESA-supported_technology_developments)
+
+> # ESA-supported technology developments
+> 
+> 992 views 3 likes
+> 
+> [ESA](https://www.esa.int/) / [Enabling & Support](https://www.esa.int/Enabling_Support) / [Space Engineering & Technology](https://www.esa.int/Enabling_Support/Space_Engineering_Technology) / [SOLARIS](https://www.esa.int/Enabling_Support/Space_Engineering_Technology/SOLARIS)
+> 
+> The concept of Space Based Solar Power is well established, but the required technologies are still in their early stages of development, so in 2020 ESA’s future-oriented [Discovery programme](https://www.esa.int/Enabling_Support/Preparing_for_the_Future/Discovery_and_Preparation) issued a call for ideas through the Agency’s [Open Space Innovation Platform](https://ideas.esa.int/servlet/hype/IMT?userAction=BrowseCurrentUser&templateName=MenuItem).
+> 
+> Space Based Solar Power is an extremely interdisciplinary topic, involving a wide range of technologies at various stages of development. So, with this call, ESA addressed a variety of organisations to gather around a common theme. The aim was to answer the following question in as much detail as possible: how do you convert a large amount of solar energy into a useful form and beam it down to Earth or another planetary surface, as efficiently as possible?
+> 
+> These activities have all been launched to explore a diverse range of Space Based Solar Power technologies, including how to more efficiently collect sunlight and how to safely transmit this power to Earth, as well as how to manufacture and assemble these huge solar power satellites, control them and keep them in the right location.
+> 
+> The full list of projects is as follows:
 
 
 
