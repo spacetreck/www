@@ -100,14 +100,70 @@ MiFID II is a legislative framework instituted by the European Union (EU) to reg
 > Entrepreneurs, take business and technical courses to kick start the development of your own  
 > space-enabled solution. Benefit from trainings, workshops, and one-on-one mentoring.
 
++ [EUSPA Space Academy - an online training programme](https://www.euspa.europa.eu/spaceacademy/)
+
+
+
+
+## Satellites
+
+
+[ESA - Pacis 3](https://www.esa.int/Applications/Telecommunications_Integrated_Applications/Pacis_3)
+
+> The Pacis 3 project works towards providing more affordable, flexible and secure communications services for governmental users in Europe.
+> 
+> It is an ESA Partnership Project with Spanish satellite operator Hisdesat, supported by Spain’s Centre for the Development of Industrial Technology (CDTI).
+
+[4S - Govsatcom Precursor | ESA TIA](https://artes.esa.int/4s-govsatcom-precursor)
+
+> ## GOVSATCOM Precursor responds to the growing need in Europe for secure communications for the benefit of its citizens, in applications for institutional and commercial users.
+> 
+> The programe is a first step to demonstrate how European space industry can support the EU’s Govsatcom initiative, which aims to pool and share governmental and commercial satellite services to provide secure and guaranteed access to satcom for a wide range of governmental, institutional and commercial applications requiring security and reliability.
+> 
+> ### SATELLITE OPERATORS AND SERVICE PROVIDERS ARE DEVELOPING THE FIRST GOVSATCOM PRECURSOR PUBLIC–PRIVATE PARTNERSHIP PROJECTS CALLED PACIS:
+> 
+> - [PACIS 1](https://artes.esa.int/sites/default/files/Flyer%20-%20PACIS-1%20-%20SES%20Networks.pdf) 
+> - PACIS 3
+> - [PACIS 5](https://artes.esa.int/sites/default/files/Flyer-PACIS%205-Airbus.pdf)
+> - [PACIS 6](https://artes.esa.int/sites/default/files/Flyer%20-%20PACIS-6%20-%20Inmarsat_0.pdf)
+
+
+[Spacety - Spacety](https://en.spacety.com/)
+
+> Spacety is a global new space company specialized in small satellites and satellite-based services. Using our low-cost and high-performance cubesat and smallsat fleet, we provide Satellites-as-a-Service (SataaS) to support science, technology demonstration, and commercial services with fast, frequent, and flexible space flights. Our Synthetic Aperture Radar (SAR) constellation will monitor and observe the Earth day and night, and rain or shine. This Data-as-a-Service (DaaS) will make SAR imagery of every point on Earth accessible and affordable to end users all around the world.
+
+
+
+
+## Application
+
+
+## [Space-Track.Org](https://www.space-track.org/auth/login?s=08)
+
+>   
+> Space-Track.org promotes space flight safety, protection of the space environment and the peaceful use of space worldwide by sharing space situational awareness services and information with U.S. and international satellite owners/operators, academia and other entities.
+
+
+
+## Cloud Provider
+
+
+[What is Azure Orbital Analytics? | Microsoft Learn](https://learn.microsoft.com/en-us/azure/orbital/overview-analytics)
+
+> Azure Orbital Analytics are Azure capabilities using spaceborne data and AI that allow you to discover and distribute the most valuable insights from your spaceborne data to take action in less time.
+> 
+> [](https://learn.microsoft.com/en-us/azure/orbital/overview-analytics#what-it-provides)
+> 
+> ## What it provides
+> 
+> Azure Orbital Analytics informs customers of the ability to downlink spaceborne data from Azure Orbital Ground Station (AOGS), first- or third-party archives, or customer-acquired data directly into Azure. Data is efficiently stored using Azure Data Platform components. From there, raw spaceborne sensor data can be converted into analysis-ready data using Azure Orbital Analytics processing pipeline reference architectures.
 
 
 
 
 
-## Software
 
-### Opensource
+## Opensource Software
 
 + [Open Source Project Hosting - Open Infrastructure Foundation (OpenInfra Foundation)](https://openinfra.dev/projects/hosting/)
 
@@ -117,6 +173,7 @@ The OpenInfra Foundation is a neutral, collaborative home for open source infras
 
 
 ### [SNAP – STEP](http://step.esa.int/main/toolboxes/snap/)
+
 [SNAP - ESA's SentiNel Application Platform](https://github.com/senbox-org/)
 The SNAP architecture is ideal for Earth Observation processing and analysis due to the following technological innovations: Extensibility, Portability, Modular Rich Client Platform, Generic EO Data Abstraction, Tiled Memory Management, and a Graph Processing Framework.
 Feature Highlights
@@ -170,23 +227,19 @@ A few documents and links of interest are:
 - The [snapista software repository](https://github.com/snap-contrib/snapista)
 
 
-## Staellites
+### [Azure/Azure-Orbital-Analytics-Samples: Sample solution that demonstrates how to deploy and analyze spaceborne data using Azure Synapse Analytics](https://github.com/Azure/Azure-Orbital-Analytics-Samples)
 
-[ESA - Pacis 3](https://www.esa.int/Applications/Telecommunications_Integrated_Applications/Pacis_3)
-
-> The Pacis 3 project works towards providing more affordable, flexible and secure communications services for governmental users in Europe.
+> This repository contains sample solution that demonstrates how to deploy and execute [Geospatial Analysis using Azure Synapse Analytics](https://aka.ms/synapse-geospatial-analytics) workload on your Azure tenant. We recommend that you read the document on "Geospatial Analysis using Azure Synapse Analytics" before deploying this solution.
 > 
-> It is an ESA Partnership Project with Spanish satellite operator Hisdesat, supported by Spain’s Centre for the Development of Industrial Technology (CDTI).
+> Disclaimer: The solution and samples provided in this repository is for learning purpose only. They're intended to explore the possibilites of the Azure Services and are a starting point to developing your own solution. We recommend that you follow the security best practices as per the Microsoft documentation for individual services.
 
 
 
 
 
+## OS
 
-
-### OS
-
-[UNICOS – ArchiveOS](https://archiveos.org/unicos/)
+### [UNICOS – ArchiveOS](https://archiveos.org/unicos/)
 UNICOS – a standard operating system for VSMP (Cray Vector Symmetric multi-processor) computers developed by Cray Research. UNICOS is the successor of the Cray Operating System (COS). It was derived from the UNIX System V, and it is the first 64 bit implementation of UNIX and a UNIX similar file system. The UNICOS system is also the first high performance UNIX based operating system which supports SMP. 
 
 
@@ -285,11 +338,44 @@ Blockchain is one of the key emerging technologies for Europe, on a par with AI,
 > By using blockchain themselves, European policy makers gain first-hand knowledge of how the technology works, where it can best be applied, and what its potential and risks are.  The EBP serves as both a technological and regulatory sandbox, hopefully leading to better, more informed regulation on the technological and use case front.
 > 
 
-[Home - European Blockchain Association](https://europeanblockchainassociation.org/)
+[European Blockchain Association](https://europeanblockchainassociation.org/)
 
 > # Empowering The European Blockchain Ecosystem
 > 
 > We combine, synchronize and leverage blockchain-related activities of European corporations, startups, venture capitalists, and scientific institutes. We serve as a superior, neutral body to aggregate and coordinate blockchain activities throughout Europe and to provide Non-European parties access into the European blockchain ecosystem.
+
+
+
+[Introducing EBSI](https://ec.europa.eu/digital-building-blocks/wikis/display/EBSI/Home)
+
+ The **European Blockchain Services Infrastructure (EBSI)** was born in 2018 when **29 countries** (all EU members states, Norway and Liechtenstein) and the **EU Commission** have joined forces to create the **European Blockchain Partnership (EBP)**.
+> 
+> EBP’s vision is to leverage blockchain to create cross-border services for public administrations, businesses, citizens and their ecosystems to verify information and make services trustworthy.
+> 
+> Discover and understand EBSI by having a look at our website and visit the [**FAQ’s**](https://ec.europa.eu/digital-building-blocks/wikis/x/BgBXHQ).
+[What is EBSI - EBSI -](https://ec.europa.eu/digital-building-blocks/wikis/display/EBSI/What+is+ebsi)
+
+
+
+[Understanding European Blockchain Services Infrastructure (EBSI) - 101 Blockchains](https://101blockchains.com/european-blockchain-services-infrastructure-ebsi/)
+
+> # Understanding European Blockchain Services Infrastructure (EBSI)
+> 
+> The [crypto](https://101blockchains.com/what-is-cryptocurrency/) world is gaining popularity beyond bounds all over the world. So, many people are interested in discovering the potential of the underlying [blockchain technology](https://101blockchains.com/blockchain-technology-explained/) beneath the crypto world. As of now, many [blockchain-based projects](https://101blockchains.com/top-blockchain-projects-ideas/) across different industries have pointed out possibilities for the large-scale adoption of blockchain technology. The EBSI is one such blockchain project which has gained attention in recent times. 
+> 
+> It is basically a new initiative by the European Commission for delivering a wide assortment of cross-border digital public services. So, it has inevitably caught the attention of many people all over the world, especially crypto and [blockchain enthusiasts](https://101blockchains.com/blockchain-expert/). The following discussion dives into a deep understanding of all the fundamentals of EBSI**,** starting from its definition and use cases alongside its value for [blockchain adoption](https://101blockchains.com/blockchain-adoption-challenges/).
+
+
+
+
+[Tokenise Europe 2025 initiative launched by EU, German banking association - Ledger Insights - blockchain for enterprise](https://www.ledgerinsights.com/tokenise-europe-2025/)
+
+> Tokenise Europe 2025 aims to drive the adoption of tokenization to make the European Union a frontrunner in the sector and protect its sovereignty. It was founded by the European Commission in conjunction with the [Association of German Banks](https://en.bankenverband.de/), with consultancy [Roland Berger](https://www.rolandberger.com/en/) providing support.
+> 
+> So far, 20 firms have joined the association, with Germany, Spain and Liechtenstein leading the charge. Four global banks are involved – BBVA, Commerzbank, Deutsche Bank and Santander – plus a handful of large industrial companies such as Daimler Trucks, Renault and Repsol. In addition to the German banking association, its counterparts from Italy and Liechtenstein are involved as well as payment firms Iberpay and Worldline.
+> 
+> Roland Berger ran a [survey on tokenization](https://bankenverband.de/media/files/Tokenise_Europe_2025_2Abfij0.pdf), although it acknowledged the results published in January are not necessarily representative. It found that two thirds believe tokenization is relevant to their organizations, and half believe Europe will become a leader.
+
 
 
 
