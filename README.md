@@ -145,7 +145,30 @@ MiFID II is a legislative framework instituted by the European Union (EU) to reg
 
 
 
-## Cloud Provider
+## Gateway, Cloud Provider
+
+
+[Earth Observation Missions - eoPortal](https://www.eoportal.org/)
+
+> # Your Gateway to Earth Observation
+> 
+> The eoPortal provides a trusted, accurate, and up to date gateway to knowledge and resources related to Earth Observation satellite missions.
+
+
+[Euro Data Cube](https://eurodatacube.com/)
+
+Harness the power of the data cube, access and analyse all the most important Earth Observation data in one application.
+
+Data Access
+Conveniently access global archives of analysis-ready Earth Observation data from all the major providers in one place
+
+Processing Capabilities
+Manage your own computation and storage environment. Take advantage of data cube technology or batch processing capabilities for resource-intense use cases
+
+Collaborate & Sell
+Share your data and algorithm with the community and customers on the EDC Marketplace
+
+
 
 
 [What is Azure Orbital Analytics? | Microsoft Learn](https://learn.microsoft.com/en-us/azure/orbital/overview-analytics)
@@ -163,7 +186,18 @@ MiFID II is a legislative framework instituted by the European Union (EU) to reg
 
 
 
-## Opensource Software
+## opensource projects
+
+
+### [geojson/schema: JSON Schema for GeoJSON](https://github.com/geojson/schema)
+
+> This repository provides tools for building [JSON Schema](http://json-schema.org/) docs for [GeoJSON](http://geojson.org/). A schema is generated for each of the GeoJSON object types, and each individual doc is complete (without `$ref`s to other documents). So applications can consume just what they need and avoid extra fetching.
+
+
+
+
+
+## Software
 
 + [Open Source Project Hosting - Open Infrastructure Foundation (OpenInfra Foundation)](https://openinfra.dev/projects/hosting/)
 
@@ -227,11 +261,13 @@ A few documents and links of interest are:
 - The [snapista software repository](https://github.com/snap-contrib/snapista)
 
 
+
 ### [Azure/Azure-Orbital-Analytics-Samples: Sample solution that demonstrates how to deploy and analyze spaceborne data using Azure Synapse Analytics](https://github.com/Azure/Azure-Orbital-Analytics-Samples)
 
 > This repository contains sample solution that demonstrates how to deploy and execute [Geospatial Analysis using Azure Synapse Analytics](https://aka.ms/synapse-geospatial-analytics) workload on your Azure tenant. We recommend that you read the document on "Geospatial Analysis using Azure Synapse Analytics" before deploying this solution.
 > 
 > Disclaimer: The solution and samples provided in this repository is for learning purpose only. They're intended to explore the possibilites of the Azure Services and are a starting point to developing your own solution. We recommend that you follow the security best practices as per the Microsoft documentation for individual services.
+
 
 
 
@@ -314,8 +350,10 @@ ESA BIC Poland is an incubator whose operation is based on the cooperation of ma
     Business and legal support partner provides business or legal support for startups, has competence and knowledge in the field of business development or provides legal services.
     
     
-    
+
+
 ### [European Blockchain Strategy — Brochure - Shaping Europe’s digital future](https://digital-strategy.ec.europa.eu/en/library/european-blockchain-strategy-brochure)
+
 Blockchain is one of the key emerging technologies for Europe, on a par with AI, IoT, Quantum Computing and 5G. Known as the technology of trust, it enables large groups of people and organisations that may not know or trust each other to agree on and permanently record information without the need for a third-party authority. 
 
 [Blockchain Strategy - Shaping Europe’s digital future](https://digital-strategy.ec.europa.eu/en/policies/blockchain-strategy)
@@ -448,6 +486,27 @@ Lista laureatów 7 edycji konkursu stażowego
 17\. Syderal  
 18\. ŚCNTPL  
 19\. Wiran.
+
+
+
+## Global Organisations
+
+### [CEOS - Committee on Earth Observation Satellites](https://ceos.org/)
+
+> CEOS Working Groups address topics such as calibration/validation, data portals, capacity building, disaster management, climate, and common data processing standards shared across a wide range of Earth observation domains. 
+> 
+> - [Working Group on Capacity Building & Data Democracy](https://ceos.org/?p=80 "The Working Group on Capacity Building & Data Democracy (WGCapD)")
+> 
+> - [CEOS/CGMS Working Group on Climate](https://ceos.org/?p=82 "WGClimate")
+> 
+> - [Working Group on Calibration & Validation](https://ceos.org/?p=76)
+> 
+> - [Working Group on Disasters](https://ceos.org/?p=72 "Disasters")
+> 
+> - [Working Group on Information Systems & Services](https://ceos.org/?p=78)
+
+
+
 
 
 
