@@ -90,6 +90,17 @@ MiFID II is a legislative framework instituted by the European Union (EU) to reg
 - Increasing transparency of costs and improving record-keeping of transactions are among MiFID II's key regulations.
 
 
+## Edu, Learning, Cert
+
+
+### [Courses](https://spaceacademy.getlearnworlds.com/courses)
+
+> # Build your own learning path now!
+> 
+> Entrepreneurs, take business and technical courses to kick start the development of your own  
+> space-enabled solution. Benefit from trainings, workshops, and one-on-one mentoring.
+
+
 
 
 
@@ -157,6 +168,9 @@ A few documents and links of interest are:
 - A [getting started](https://snap-contrib.github.io/snapista/gettingstarted/) section with an introduction to snapista including some examples .
 - An [interactive notebook developed for Binder](https://mybinder.org/v2/gh/snap-contrib/snapista/HEAD?urlpath=lab%2Ftree%2Fdemo.ipynb) with a few code snippets
 - The [snapista software repository](https://github.com/snap-contrib/snapista)
+
+
+
 
 
 
