@@ -19,6 +19,8 @@
 
 + [biznes - Sieć Badawcza Łukasiewicz](https://lukasiewicz.gov.pl/biznes/)
 + [Instytut relokuje część biur do Aeroparku - Sieć Badawcza Łukasiewicz - Instytut Lotnictwa](https://ilot.lukasiewicz.gov.pl/instytut-relokuje-czesc-biur-do-aeroparku/)
++ [Edukujemy i napędzamy pomysły młodych | Fundacja Innovations Hub | Innovations Hub Foundation](https://www.innovationshub.pl/)
+
 
 
 ## Agencje rządowe
