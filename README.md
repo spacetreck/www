@@ -557,6 +557,13 @@ Lista laureatów 7 edycji konkursu stażowego
 
 
 
+## Silniki, generatory plazomwe
+
++ [Generatory plazmowe - TRUMPF](https://www.trumpf.com/pl_PL/produkty/energoelektronika/generatory-plazmowe/)
+
+
+
+
 
 ---
 + [edit](https://github.com/spacetreck/www/edit/main/README.md)
