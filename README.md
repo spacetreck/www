@@ -551,6 +551,10 @@ Lista laureatów 7 edycji konkursu stażowego
 
 
 
+## Space Solar Power
+
++ [Space Solar Power – Library - National Space Society](https://space.nss.org/space-solar-power-library/)
+
 
 
 
