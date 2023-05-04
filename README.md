@@ -81,6 +81,16 @@ By the European Commission and the European Blockchain Partnership
 + [EBSI Grants - EBSI -](https://ec.europa.eu/digital-building-blocks/wikis/display/EBSI/EBSI+Grants)
 
 
+## Finansowanie, Fundusze
+
+[Home - Sieć Otwartych Innowacji](https://siecotwartychinnowacji.pl/)
+
+> ## GRANTY NA TRANSFER TECHNOLOGII
+> 
+> Zdobądź refundację do 70% kosztów transakcji transferu technologii o wartości do 200 000 EUR.
+
+
+
 ### [MiFID II: Definition, Regulations, Who It Affects, and Purpose](https://www.investopedia.com/terms/m/mifid-ii.asp)
 
 ## What Is MiFID II?
