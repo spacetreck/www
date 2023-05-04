@@ -64,6 +64,11 @@ Interested in catalyzing policy to shape the next strategic frontier? Join host 
 + [Stowarzyszenie Polskich Profesjonalistów Sektora Kosmicznego - Polish Space Professionals Association - Zarząd](https://www.pspa.pl/index.php/pl/stowarzyszenie/zarzad)
 
 
+### Companies:
+
++ [SpaceForest.pl](https://spaceforest.pl/)
+
+
 # ESA
 
 ## Historia
@@ -222,6 +227,19 @@ Share your data and algorithm with the community and customers on the EDC Market
 
 
 
+
+
+### Data, API
+
++ [Open Access Hub](https://scihub.copernicus.eu/)
+
+> The Copernicus Open Access Hub (previously known as Sentinels Scientific Data Hub) provides complete, free and open access to [Sentinel-1](https://sentinels.copernicus.eu/web/sentinel/missions/sentinel-1), [Sentinel-2](https://sentinels.copernicus.eu/web/sentinel/missions/sentinel-2), [Sentinel-3](https://sentinels.copernicus.eu/web/sentinel/missions/sentinel-3) and [Sentinel-5P](https://sentinels.copernicus.eu/web/sentinel/missions/sentinel-5p) user products, starting from the In-Orbit Commissioning Review (IOCR).
+
+
++ [Sentinel Hub - A Satellite Imagery Web Service - Copernicus Masters](https://copernicus-masters.com/winner/sentinel-hub-satellite-imagery-web-service/)
+
+> **Service summary  
+> **Sentinel Hub provides unprecedented access to Earth observation data with a focus on Sentinel satellites and additional support for sources such as Landsat and Planet. By facilitating advanced Amazon Web Services (AWS) cloud technology and innovative methods of efficiently processing and distributing data in a matter of seconds without intensive pre-processing, it offers an easy-to-use and cost-efficient way to exploit the data in any GIS application or integrate it into web applications. Sentinel Hub thus eliminates the major hassle of downloading, archiving and processing petabytes of data and simply makes the full global archive available via web services. Application developers can therefore focus on value-adding services and end-user applications rather than dealing with the complexity of remote sensing data. In this way, Sentinel Hub will increase the uptake of the Copernicus programme
 
 
 ## Software
