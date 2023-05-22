@@ -112,6 +112,14 @@ MiFID II is a legislative framework instituted by the European Union (EU) to reg
 
 ## Edu, Learning, Cert
 
+### ARP Space Academy 
+
+[ARP Space Academy - Agencja Rozwoju Przemysłu S.A.](https://arp.pl/pl/jak-dzialamy/projekty-kosmiczne/arp-space-academy/)
+
+ARP Space Academy to szkolenia dedykowane inżynierom, którzy chcą rozpocząć pracę w sektorze kosmicznym, oraz pracownikom technicznym mającym doświadczenie w innych branżach i chcącym przekwalifikować się na branżę kosmiczną.
+
+Szkolenia dają podstawy teoretyczne i praktyczne w różnych dziedzinach nauka inżynierskich, z naciskiem na specyfikę inżynierii kosmicznej. W ramach Space Academy ARP S.A. organizuje dwuczęściowe szkolenie Introduction to Space for Engineers.
+
 
 ### [Courses](https://spaceacademy.getlearnworlds.com/courses)
 
