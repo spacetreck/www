@@ -350,10 +350,14 @@ was formed in 1982 by the major space agencies of the world to provide a forum f
 
 ## Solar Panels
 
-[ESA - FAQ: Frequently Asked Questions on Space-Based Solar Power](https://www.esa.int/Enabling_Support/Space_Engineering_Technology/SOLARIS/FAQ_Frequently_Asked_Questions_on_Space-Based_Solar_Power)
+
++ [Welcome to the OpenSTEF documentation! — OpenSTEF documentation](https://openstef.github.io/openstef/index.html)
+OpenSTEF is a Python package which is used to make short term forecasts for the energy sector. It contains all components for the machine learning pipeline required to make a forecast. The openstef Python package and its installation instructions are available at: https://pypi.org/project/openstef/.
+
++ [ESA - FAQ: Frequently Asked Questions on Space-Based Solar Power](https://www.esa.int/Enabling_Support/Space_Engineering_Technology/SOLARIS/FAQ_Frequently_Asked_Questions_on_Space-Based_Solar_Power)
 
 
-[ESA - ESA-supported technology developments](https://www.esa.int/Enabling_Support/Space_Engineering_Technology/SOLARIS/ESA-supported_technology_developments)
++ [ESA - ESA-supported technology developments](https://www.esa.int/Enabling_Support/Space_Engineering_Technology/SOLARIS/ESA-supported_technology_developments)
 
 > # ESA-supported technology developments
 > 
